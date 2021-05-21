@@ -1,3 +1,5 @@
 Gitの練習のためのファイル
 aaaaaaa追加
 git add
+
+git rm
