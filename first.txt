@@ -1,2 +1,4 @@
 Gitの練習のためのファイル
 aaaaaaa追加
+
+iiiiiii追加
