@@ -3,3 +3,4 @@ aaaaaaa追加
 git add
 
 git rm
+git status
